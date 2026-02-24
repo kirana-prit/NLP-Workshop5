@@ -1,6 +1,6 @@
 ## Disclaimer
 
-### Dataset cannot be upload due to size limit
+### Dataset cannot be uploaded due to size limit
 
 ### Sampling Strategy
 
