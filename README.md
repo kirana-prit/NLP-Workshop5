@@ -1,5 +1,7 @@
 ## Disclaimer
 
+### Dataset cannot be upload via size limit
+
 ### Sampling Strategy
 
 Due to hardware limitations (8GB RAM) and the quadratic memory complexity of Hierarchical Agglomerative Clustering (HAC), clustering was performed on a sampled subset of the dataset instead of the full dataset.
